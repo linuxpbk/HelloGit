@@ -1,0 +1,154 @@
+.:
+total 6
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ../
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 .git/
+-rw-r--r-- 1 BK 197121 320  6월 12 20:57 .gitignore
+-rw-r--r-- 1 BK 197121   0  6월 12 21:18 file.list
+-rw-r--r-- 1 BK 197121  29  6월 12 21:16 README.md
+
+./.git:
+total 13
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ../
+-rw-r--r-- 1 BK 197121 299  6월 12 21:16 config
+-rw-r--r-- 1 BK 197121  73  6월 12 21:16 description
+-rw-r--r-- 1 BK 197121  21  6월 12 21:16 HEAD
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 hooks/
+-rw-r--r-- 1 BK 197121 198  6월 12 21:18 index
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 info/
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 logs/
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 objects/
+-rw-r--r-- 1 BK 197121 112  6월 12 21:16 packed-refs
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 refs/
+
+./.git/hooks:
+total 49
+drwxr-xr-x 1 BK 197121    0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121    0  6월 12 21:18 ../
+-rwxr-xr-x 1 BK 197121  478  6월 12 21:16 applypatch-msg.sample*
+-rwxr-xr-x 1 BK 197121  896  6월 12 21:16 commit-msg.sample*
+-rwxr-xr-x 1 BK 197121 4655  6월 12 21:16 fsmonitor-watchman.sample*
+-rwxr-xr-x 1 BK 197121  189  6월 12 21:16 post-update.sample*
+-rwxr-xr-x 1 BK 197121  424  6월 12 21:16 pre-applypatch.sample*
+-rwxr-xr-x 1 BK 197121 1643  6월 12 21:16 pre-commit.sample*
+-rwxr-xr-x 1 BK 197121  416  6월 12 21:16 pre-merge-commit.sample*
+-rwxr-xr-x 1 BK 197121 1492  6월 12 21:16 prepare-commit-msg.sample*
+-rwxr-xr-x 1 BK 197121 1348  6월 12 21:16 pre-push.sample*
+-rwxr-xr-x 1 BK 197121 4898  6월 12 21:16 pre-rebase.sample*
+-rwxr-xr-x 1 BK 197121  544  6월 12 21:16 pre-receive.sample*
+-rwxr-xr-x 1 BK 197121 3635  6월 12 21:16 update.sample*
+
+./.git/info:
+total 5
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ../
+-rw-r--r-- 1 BK 197121 240  6월 12 21:16 exclude
+
+./.git/logs:
+total 5
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ../
+-rw-r--r-- 1 BK 197121 176  6월 12 21:16 HEAD
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 refs/
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ../
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 heads/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 remotes/
+
+./.git/logs/refs/heads:
+total 1
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ../
+-rw-r--r-- 1 BK 197121 176  6월 12 21:16 main
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ../
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 origin/
+
+./.git/logs/refs/remotes/origin:
+total 1
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ../
+-rw-r--r-- 1 BK 197121 176  6월 12 21:16 HEAD
+
+./.git/objects:
+total 4
+drwxr-xr-x 1 BK 197121 0  6월 12 21:18 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:18 ../
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 37/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:18 5d/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 6a/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 7f/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 info/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 pack/
+
+./.git/objects/37:
+total 1
+drwxr-xr-x 1 BK 197121   0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ../
+-r--r--r-- 1 BK 197121 519  6월 12 21:16 8f7d7b649eb9e4e9b56cf1b6094428773c1c22
+
+./.git/objects/5d:
+total 1
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ./
+drwxr-xr-x 1 BK 197121   0  6월 12 21:18 ../
+-r--r--r-- 1 BK 197121 194  6월 12 21:18 e35fdd8097070b8c7150f56f4365dc7230c07c
+
+./.git/objects/6a:
+total 1
+drwxr-xr-x 1 BK 197121  0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121  0  6월 12 21:18 ../
+-r--r--r-- 1 BK 197121 54  6월 12 21:16 8f7658b1a2bc6918576035d2aec73740392f3b
+
+./.git/objects/7f:
+total 1
+drwxr-xr-x 1 BK 197121  0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121  0  6월 12 21:18 ../
+-r--r--r-- 1 BK 197121 44  6월 12 21:16 05ff5a4c4c654756a6bb1a9673f1e920a42160
+
+./.git/objects/info:
+total 0
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:18 ../
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:18 ../
+
+./.git/refs:
+total 4
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:18 ../
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 heads/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 remotes/
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 tags/
+
+./.git/refs/heads:
+total 1
+drwxr-xr-x 1 BK 197121  0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121  0  6월 12 21:16 ../
+-rw-r--r-- 1 BK 197121 41  6월 12 21:16 main
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ../
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 origin/
+
+./.git/refs/remotes/origin:
+total 1
+drwxr-xr-x 1 BK 197121  0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121  0  6월 12 21:16 ../
+-rw-r--r-- 1 BK 197121 30  6월 12 21:16 HEAD
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ./
+drwxr-xr-x 1 BK 197121 0  6월 12 21:16 ../
