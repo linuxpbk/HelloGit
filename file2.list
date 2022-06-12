@@ -1,0 +1,8 @@
+total 14
+drwxr-xr-x 1 BK 197121    0  6월 12 21:51 ./
+drwxr-xr-x 1 BK 197121    0  6월 12 21:18 ../
+drwxr-xr-x 1 BK 197121    0  6월 12 21:51 .git/
+-rw-r--r-- 1 BK 197121  320  6월 12 20:57 .gitignore
+-rw-r--r-- 1 BK 197121 5395  6월 12 21:40 file.list
+-rw-r--r-- 1 BK 197121    0  6월 12 21:51 file2.list
+-rw-r--r-- 1 BK 197121   29  6월 12 21:16 README.md
